@@ -1,0 +1,84 @@
+{
+  "version": 1,
+  "charts": [
+    {
+      "id": "CH99901-COLDRAIN-NEW-DAWN",
+      "title": "NEW DAWN",
+      "artist": "Coldrain",
+      "charter": "b2nkuu",
+      "album": "NEW DAWN",
+      "genre": "Metalcore",
+      "insts": [
+        "guitar"
+      ],
+      "instTiers": {
+        "guitar": 5
+      },
+      "year": 2023,
+      "lengthSec": 228,
+      "fileSize": 15763632,
+      "modifiedTime": "2026-07-15T04:45:41.767Z",
+      "addedTime": "2026-07-15T03:39:36.071Z",
+      "chartFormat": "mid",
+      "stems": [
+        "guitar"
+      ],
+      "hasVideo": false,
+      "downloads": 0,
+      "isReleased": false,
+      "_hash": "19e3f75ba1872210",
+      "source": {
+        "mode": "gdrive",
+        "files": [
+          {
+            "name": "song.ini",
+            "fileId": "1UUL9huaPxgkwCt7mAa7UvL3mwJO1lwhl",
+            "size": 260,
+            "md5": "c4554d3df1d58be4727478b9af12bd77"
+          },
+          {
+            "name": "background.png",
+            "fileId": "1DzccxGtBnpYwyJDDaXZXS7-NQ7niH8nv",
+            "size": 1758470,
+            "md5": "7a318d8314a4ba179d56e5274bcbcba1"
+          },
+          {
+            "name": "notes.mid",
+            "fileId": "1r16OPdXMak73B26LaSIkaDRXyJhopedh",
+            "size": 27401,
+            "md5": "f8d776f129a8bd288a543a5664fef7c7"
+          },
+          {
+            "name": "album.png",
+            "fileId": "115s4R4iR9CxoUse1O20-9FaW5Rpyxg-i",
+            "size": 570802,
+            "md5": "aba96ccb6800ffb74834dd36fc988b09"
+          },
+          {
+            "name": "guitar.ogg",
+            "fileId": "1-3LeiEuBGuFJ4IB3YruC1e6kDBtIdfF-",
+            "size": 13406699,
+            "md5": "769fe63221bb3daf3389361a4381b19c"
+          }
+        ]
+      },
+      "ini": {
+        "artist": "Coldrain",
+        "name": "NEW DAWN",
+        "charter": "b2nkuu",
+        "album": "NEW DAWN",
+        "genre": "Metalcore",
+        "track": "1",
+        "delay": "0",
+        "year": "2023",
+        "diff_guitar": "6",
+        "sysex_open_bass": "True",
+        "sysex_slider": "True",
+        "multiplier_note": "116",
+        "pro_drums": "True",
+        "song_length": "228480"
+      },
+      "art": "https://cdn.jsdelivr.net/gh/rhythm-flea/rhythm-flea@main/indexed/CH99901/COLDRAIN-NEW-DAWN/album.png"
+    }
+  ]
+}
