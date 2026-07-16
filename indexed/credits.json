@@ -1,0 +1,17 @@
+{
+  "min_version_support": "0.1",
+  "members": [
+    {
+      "id": "MB01",
+      "name": "B2NKUU",
+      "role": "Developer, Maintainer"
+    },
+    {
+      "id": "MB02",
+      "name": "Oceanuz1999",
+      "role": "Administrator, Design Feelback"
+    }
+  ],
+  "sponsors": [],
+  "supporters": []
+}

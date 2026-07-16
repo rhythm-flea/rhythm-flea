@@ -1,11 +1,11 @@
 {
-  "version": 1,
+  "min_version_support": "0.1",
   "registries": [
     {
       "id": "CH99901",
       "type": "GDRIVE",
       "charts": 1,
-      "hash": "2adb41b7cd3cac85"
+      "hash": "dbc0e31b913240ad"
     }
   ]
 }

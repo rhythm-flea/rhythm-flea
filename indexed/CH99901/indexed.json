@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "min_version_support": "0.1",
   "charts": [
     {
       "id": "CH99901-COLDRAIN-NEW-DAWN",
