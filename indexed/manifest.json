@@ -2,6 +2,12 @@
   "min_version_support": "0.1",
   "registries": [
     {
+      "id": "CH00001",
+      "type": "GDRIVE",
+      "charts": 5,
+      "hash": "b997e887207a7158"
+    },
+    {
       "id": "CH99901",
       "type": "GDRIVE",
       "charts": 1,
