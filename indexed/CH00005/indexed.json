@@ -1,0 +1,592 @@
+{
+  "min_version_support": "0.1",
+  "charts": [
+    {
+      "id": "CH00005-21-LAST-TEAR-NAM-TA-SUD-TAI",
+      "title": "Last Tear (Nam Ta Sud Tai)",
+      "artist": "Cocktail",
+      "charter": "Oceanuz1999",
+      "album": "The Lords of Misery",
+      "genre": "Orchestral Rock",
+      "insts": [
+        "guitar",
+        "bass",
+        "drums",
+        "prodrums"
+      ],
+      "instTiers": {
+        "guitar": 3,
+        "bass": 2,
+        "drums": 2,
+        "prodrums": 2
+      },
+      "year": 2013,
+      "lengthSec": 288,
+      "fileSize": 26851937,
+      "modifiedTime": "2024-04-18T17:01:04.000Z",
+      "addedTime": "2025-06-08T10:43:34.798Z",
+      "chartFormat": "chart",
+      "stems": [
+        "bass",
+        "drums",
+        "guitar",
+        "vocals"
+      ],
+      "hasVideo": false,
+      "downloads": 0,
+      "isReleased": false,
+      "_hash": "d15485f628ba9930",
+      "source": {
+        "mode": "gdrive",
+        "files": [
+          {
+            "name": "song.ini",
+            "fileId": "12gxqEHErpwENX0bCGMVwI1q0q02JikxA",
+            "size": 462,
+            "md5": "91b4fc01cf1119647102ccf4d6992eb5"
+          },
+          {
+            "name": "notes.chart",
+            "fileId": "1MhSC354E-ogplJc9Xvz9xwKkZOUHAb2B",
+            "size": 173844,
+            "md5": "fef6f4e6d5fa94252ecc96736223fffe"
+          },
+          {
+            "name": "guitar.ogg",
+            "fileId": "1gdldqx0wieShQrA21UwonQQhHKEJyyQM",
+            "size": 7643636,
+            "md5": "3402ba14bdb69059b064dad54f0c7610"
+          },
+          {
+            "name": "vocals.ogg",
+            "fileId": "1ZoaBlJWT7gVVNXARQBLwLGHudhtT_u12",
+            "size": 6455576,
+            "md5": "a6673df47c9d9840bb6a599b034afd80"
+          },
+          {
+            "name": "bass.ogg",
+            "fileId": "1zp7FV55PKAhzHt11ITvo2D3dQANZ1tZq",
+            "size": 5861878,
+            "md5": "d0c934fe237afff232265b9ee80de55b"
+          },
+          {
+            "name": "background.jpg",
+            "fileId": "1FBWn07yP3ERHRqfaXM10Cj-8BrYtzuKn",
+            "size": 41194,
+            "md5": "40ceb280bbbe21f2a2ac29d50f39bf37"
+          },
+          {
+            "name": "album.jpg",
+            "fileId": "1EQMBz86MrMfC6ZW52xks-wNvN96tugpQ",
+            "size": 43495,
+            "md5": "73e245f9f1808f670cc1c6b134f8bfe8"
+          },
+          {
+            "name": "drums.ogg",
+            "fileId": "1ptFjMnUmo-M3al3BaH4eY1dLVktUSsF1",
+            "size": 6631852,
+            "md5": "47195abcc20df66456d1b7e688925caf"
+          }
+        ]
+      },
+      "ini": {
+        "name": "Last Tear (Nam Ta Sud Tai)",
+        "artist": "Cocktail",
+        "album": "The Lords of Misery",
+        "genre": "Orchestral Rock",
+        "year": "2013",
+        "song_length": "287961",
+        "charter": "Oceanuz1999",
+        "diff_band": "0",
+        "diff_guitar": "4",
+        "diff_bass": "2",
+        "diff_drums": "3",
+        "diff_keys": "0",
+        "diff_guitarghl": "0",
+        "diff_bassghl": "0",
+        "diff_drums_real": "3",
+        "preview_start_time": "129583",
+        "icon": "0",
+        "playlist_track": "",
+        "track": "",
+        "album_track": "",
+        "delay": "0",
+        "loading_phrase": "",
+        "diff_rhythm": "0",
+        "diff_rhythmghl": "0"
+      },
+      "art": "https://cdn.jsdelivr.net/gh/rhythm-flea/rhythm-flea@main/indexed/CH00005/21-LAST-TEAR-NAM-TA-SUD-TAI/album.jpg"
+    },
+    {
+      "id": "CH00005-23-KISS-LIM-LEI-CHUP-CHIM-RIM-LE",
+      "title": "Kiss Lim Lei (Chup Chim Rim Le)",
+      "artist": "Wong Chon U Bat",
+      "charter": "Oceanuz1999 & FarmMyLife",
+      "album": "Chup Chim Rim Le - Single",
+      "genre": "Rubsarb",
+      "insts": [
+        "guitar",
+        "bass",
+        "drums",
+        "prodrums"
+      ],
+      "instTiers": {
+        "guitar": 2,
+        "bass": 2,
+        "drums": 2,
+        "prodrums": 2
+      },
+      "year": 2018,
+      "lengthSec": 142,
+      "fileSize": 11810332,
+      "modifiedTime": "2024-04-18T17:02:27.000Z",
+      "addedTime": "2025-06-08T10:43:41.223Z",
+      "chartFormat": "chart",
+      "stems": [
+        "bass",
+        "drums",
+        "guitar",
+        "vocals"
+      ],
+      "hasVideo": false,
+      "downloads": 0,
+      "isReleased": false,
+      "_hash": "a9a1ea7e8ef7e0bc",
+      "source": {
+        "mode": "gdrive",
+        "files": [
+          {
+            "name": "song.ini",
+            "fileId": "1qvfz5LYidj_qwbpbwTKNReG55PW9XGMi",
+            "size": 480,
+            "md5": "6216ea265b45b61175a71b33f418f289"
+          },
+          {
+            "name": "notes.chart",
+            "fileId": "17nM92rXMlrXX16u-4-DF1543AXKzHgoo",
+            "size": 99947,
+            "md5": "9106aacd870c113f70cdf84359bfd41a"
+          },
+          {
+            "name": "album.jpg",
+            "fileId": "1rTA0JYxWuEUdBJvKWQPms_UJENBmedjJ",
+            "size": 72426,
+            "md5": "7f0dd1c717d70cdb9f7a7a9917a84152"
+          },
+          {
+            "name": "background.jpg",
+            "fileId": "1By2gChKwtYQDzRFiPvacf9b_BcIUzz-0",
+            "size": 127753,
+            "md5": "85500a1d70356f04c738c05983d075f0"
+          },
+          {
+            "name": "vocals.ogg",
+            "fileId": "1aEGafAOo946bkP4tQY8XJD5tQbwWmJRs",
+            "size": 3090695,
+            "md5": "090feb016ea913eafab2f01d0e7879f1"
+          },
+          {
+            "name": "drums.ogg",
+            "fileId": "1ezy20tQS1btopsiftcTTDPuwK1nz3umU",
+            "size": 2919602,
+            "md5": "fadeaecccc28f7af22b8dbda3268c432"
+          },
+          {
+            "name": "bass.ogg",
+            "fileId": "1jf33iiXZPimtYAvHdOdsjp7Yq2B-i_ZU",
+            "size": 2364330,
+            "md5": "64885629f98f804064382e9e183d1b87"
+          },
+          {
+            "name": "guitar.ogg",
+            "fileId": "16v6AdjcONw7P6aAOKkuUmquc--BNQi3d",
+            "size": 3135099,
+            "md5": "b08797e543dd27dabc16ce23671da8ab"
+          }
+        ]
+      },
+      "ini": {
+        "name": "Kiss Lim Lei (Chup Chim Rim Le)",
+        "artist": "Wong Chon U Bat",
+        "album": "Chup Chim Rim Le - Single",
+        "genre": "Rubsarb",
+        "year": "2018",
+        "song_length": "142068",
+        "charter": "Oceanuz1999 & FarmMyLife",
+        "diff_band": "3",
+        "diff_guitar": "3",
+        "diff_bass": "3",
+        "diff_drums": "2",
+        "diff_keys": "0",
+        "diff_guitarghl": "0",
+        "diff_bassghl": "0",
+        "diff_drums_real": "2",
+        "preview_start_time": "0",
+        "icon": "0",
+        "playlist_track": "",
+        "track": "",
+        "album_track": "",
+        "delay": "0",
+        "loading_phrase": "",
+        "diff_rhythm": "0",
+        "diff_rhythmghl": "0"
+      },
+      "art": "https://cdn.jsdelivr.net/gh/rhythm-flea/rhythm-flea@main/indexed/CH00005/23-KISS-LIM-LEI-CHUP-CHIM-RIM-LE/album.jpg"
+    },
+    {
+      "id": "CH00005-25-SATISFACTORILY-SA-SOM-CHAI",
+      "title": "Satisfactorily (Sa Som Chai)",
+      "artist": "ToNy_GospeL ft.HEARTROCKER",
+      "charter": "Oceanuz1999",
+      "album": "Home Sweet Home : Survive Ost.",
+      "genre": "Metal",
+      "insts": [
+        "guitar",
+        "bass",
+        "drums",
+        "prodrums"
+      ],
+      "instTiers": {
+        "guitar": 2,
+        "bass": 3,
+        "drums": 5,
+        "prodrums": 5
+      },
+      "year": 2022,
+      "lengthSec": 232,
+      "fileSize": 28951879,
+      "modifiedTime": "2024-04-18T17:08:10.000Z",
+      "addedTime": "2025-06-08T10:43:50.649Z",
+      "chartFormat": "chart",
+      "stems": [
+        "bass",
+        "drums",
+        "guitar",
+        "keys",
+        "vocals"
+      ],
+      "hasVideo": false,
+      "downloads": 0,
+      "isReleased": false,
+      "_hash": "5b540e6ecbf12eee",
+      "source": {
+        "mode": "gdrive",
+        "files": [
+          {
+            "name": "song.ini",
+            "fileId": "1Y_IdjjoJ-fHcBKq8j2XeOeBRhQaD1F_-",
+            "size": 483,
+            "md5": "6381e1f92f89a311cc4501e9e4907047"
+          },
+          {
+            "name": "notes.chart",
+            "fileId": "1qbZdltJlO2GQnuPGqmz0tuCUx_wiaJFx",
+            "size": 236609,
+            "md5": "07670fd2b53a1ac8ae952aed5148047b"
+          },
+          {
+            "name": "album.jpg",
+            "fileId": "1R2Q_qiYmmHWgGhhv96J0zlpg28xiVg6v",
+            "size": 207010,
+            "md5": "f9eeabd97424e3d3acf9f1bb3dbe26bf"
+          },
+          {
+            "name": "background.jpg",
+            "fileId": "1iOOwNaAT-AWKohdcomPbu5MDfUhY9ovG",
+            "size": 125560,
+            "md5": "4f802ebd7688e525bbf0cf0ca7025802"
+          },
+          {
+            "name": "keys.ogg",
+            "fileId": "1d5bnSaXlLpU7cW9friXRxq85TC0j2tO6",
+            "size": 5608308,
+            "md5": "9635f1d03747ee2132f3582ba8bfd49c"
+          },
+          {
+            "name": "vocals.ogg",
+            "fileId": "1cwsZY6vKFa67rNoHQtiWb642-1bfjvZL",
+            "size": 5331993,
+            "md5": "a8607a2a2e48ad383bbb1232eb475e9e"
+          },
+          {
+            "name": "drums.ogg",
+            "fileId": "1XcsxRg0jYOWNEk_VDoZr0BIQKbt1Un3x",
+            "size": 6229872,
+            "md5": "cc0e8e156bbaef725ba31b2fea1688a6"
+          },
+          {
+            "name": "bass.ogg",
+            "fileId": "1Ix9dV0KQFBrHc45gUGahsUuxm5fzEaxR",
+            "size": 4935495,
+            "md5": "a7e1f7888b82d3c3aff051f3776a4d36"
+          },
+          {
+            "name": "guitar.ogg",
+            "fileId": "1gU4nA0c_byFQS4oWhD-QHQLRu9xg-9Kv",
+            "size": 6276549,
+            "md5": "06c85836e9bbf9510c588f01194a444f"
+          }
+        ]
+      },
+      "ini": {
+        "name": "Satisfactorily (Sa Som Chai)",
+        "artist": "ToNy_GospeL ft.HEARTROCKER",
+        "album": "Home Sweet Home : Survive Ost.",
+        "genre": "Metal",
+        "year": "2022",
+        "song_length": "232216",
+        "charter": "Oceanuz1999",
+        "diff_band": "4",
+        "diff_guitar": "3",
+        "diff_bass": "4",
+        "diff_drums": "6",
+        "diff_keys": "5",
+        "diff_guitarghl": "1",
+        "diff_bassghl": "1",
+        "diff_drums_real": "6",
+        "preview_start_time": "162551",
+        "icon": "0",
+        "playlist_track": "",
+        "track": "",
+        "album_track": "",
+        "delay": "0",
+        "loading_phrase": "",
+        "diff_rhythm": "1",
+        "diff_rhythmghl": "1"
+      },
+      "art": "https://cdn.jsdelivr.net/gh/rhythm-flea/rhythm-flea@main/indexed/CH00005/25-SATISFACTORILY-SA-SOM-CHAI/album.jpg"
+    },
+    {
+      "id": "CH00005-22-CHAI-YA",
+      "title": "Chai Ya",
+      "artist": "BRF (Music by Triple six)",
+      "charter": "Oceanuz1999",
+      "album": "Single",
+      "genre": "Metal",
+      "insts": [
+        "guitar",
+        "bass",
+        "drums",
+        "prodrums"
+      ],
+      "instTiers": {
+        "guitar": 5,
+        "bass": 3,
+        "drums": 4,
+        "prodrums": 4
+      },
+      "year": 2022,
+      "lengthSec": 128,
+      "fileSize": 12503021,
+      "modifiedTime": "2024-04-18T17:01:42.000Z",
+      "addedTime": "2025-06-08T10:43:33.235Z",
+      "chartFormat": "chart",
+      "stems": [
+        "bass",
+        "drums",
+        "guitar",
+        "vocals"
+      ],
+      "hasVideo": false,
+      "downloads": 0,
+      "isReleased": false,
+      "_hash": "8a784c9dd7a20614",
+      "source": {
+        "mode": "gdrive",
+        "files": [
+          {
+            "name": "song.ini",
+            "fileId": "1pnhiiU54ij-uvAkN_-pU0q9A8zv5Akr9",
+            "size": 436,
+            "md5": "e68ad41e8106a907ddc4540bbaaafcfc"
+          },
+          {
+            "name": "notes.chart",
+            "fileId": "1_R8wXdRL-1zBh3vUAb8YuRU_a7W9L-OE",
+            "size": 95181,
+            "md5": "b19117cb6478d3731d7547f8688d56f0"
+          },
+          {
+            "name": "album.jpg",
+            "fileId": "1ChDtpr3vjHPSEFQC81JLik5F9xG1TPvb",
+            "size": 16524,
+            "md5": "aa34b69130c6ab2d2c28c1e0ec0e3bbb"
+          },
+          {
+            "name": "background.jpg",
+            "fileId": "1M45Pk8ec_13U2XYQVc6H14E6CFWsd9JY",
+            "size": 341456,
+            "md5": "11e7a8263a5f13d232fe20f7c5dfddf4"
+          },
+          {
+            "name": "vocals.ogg",
+            "fileId": "1_H_2dI79ojzjG8KzHBI_2NirWP7BCoNy",
+            "size": 3037680,
+            "md5": "3d68a34306a97d504837b57b13bdbb4b"
+          },
+          {
+            "name": "drums.ogg",
+            "fileId": "1LQZtZBlnRvfflLn18OdKe8Gj--RPgeRL",
+            "size": 3217092,
+            "md5": "e5c838131946ed90dee9daf24da3ab8a"
+          },
+          {
+            "name": "bass.ogg",
+            "fileId": "1VCVKS2ZCAjtQXIGJyrfOWN5K6VupwFpG",
+            "size": 2717303,
+            "md5": "c0a2c3da130a5662c066eb23b39997e1"
+          },
+          {
+            "name": "guitar.ogg",
+            "fileId": "1wMjxx6ffoivsdzUBvEgEz2nyhLwMWY-i",
+            "size": 3077349,
+            "md5": "d3b8f4170ad7598bbd5e07f9a22cc472"
+          }
+        ]
+      },
+      "ini": {
+        "name": "Chai Ya",
+        "artist": "BRF (Music by Triple six)",
+        "album": "Single",
+        "genre": "Metal",
+        "year": "2022",
+        "song_length": "128040",
+        "charter": "Oceanuz1999",
+        "diff_band": "5",
+        "diff_guitar": "6",
+        "diff_bass": "4",
+        "diff_drums": "5",
+        "diff_keys": "0",
+        "diff_guitarghl": "0",
+        "diff_bassghl": "0",
+        "diff_drums_real": "5",
+        "preview_start_time": "40973",
+        "icon": "0",
+        "playlist_track": "",
+        "track": "",
+        "album_track": "",
+        "delay": "0",
+        "loading_phrase": "",
+        "diff_rhythm": "0",
+        "diff_rhythmghl": "0"
+      },
+      "art": "https://cdn.jsdelivr.net/gh/rhythm-flea/rhythm-flea@main/indexed/CH00005/22-CHAI-YA/album.jpg"
+    },
+    {
+      "id": "CH00005-24-OVERHERE-HAN-SI",
+      "title": "Overhere (Han Si)",
+      "artist": "Wong John U Bath ft.Youngtoy",
+      "charter": "Oceanuz1999",
+      "album": "Single",
+      "genre": "Rubsarb",
+      "insts": [
+        "guitar",
+        "bass",
+        "drums",
+        "prodrums"
+      ],
+      "instTiers": {
+        "guitar": 2,
+        "bass": 1,
+        "drums": 1,
+        "prodrums": 1
+      },
+      "year": 2022,
+      "lengthSec": 125,
+      "fileSize": 12509007,
+      "modifiedTime": "2024-04-18T17:06:43.000Z",
+      "addedTime": "2025-06-08T10:43:42.603Z",
+      "chartFormat": "chart",
+      "stems": [
+        "bass",
+        "drums",
+        "guitar",
+        "vocals"
+      ],
+      "hasVideo": false,
+      "downloads": 0,
+      "isReleased": false,
+      "_hash": "157564c6804cc6ab",
+      "source": {
+        "mode": "gdrive",
+        "files": [
+          {
+            "name": "notes.chart",
+            "fileId": "1fOqQdgYnZ8d81shaD28SEiaIzW8OGm1i",
+            "size": 48587,
+            "md5": "bb5af83abad2b673fb76ff2913b63bf5"
+          },
+          {
+            "name": "song.ini",
+            "fileId": "1Yd0KqJnSlgyzWiOpwkywPi-EGWIeqJvj",
+            "size": 451,
+            "md5": "26580007aa00cd5dc5025fabd81d6cf3"
+          },
+          {
+            "name": "album.jpg",
+            "fileId": "1_xVt1dpl09VMwrETkwnpH3lFoEcmYisJ",
+            "size": 92065,
+            "md5": "87c78e1b098aa7e35da5759679005b06"
+          },
+          {
+            "name": "background.jpg",
+            "fileId": "1phn8oCkJNucvDCQapcDHXliML0hi-a5v",
+            "size": 1034852,
+            "md5": "04bbeebe9a619d94272149746ed81f0e"
+          },
+          {
+            "name": "vocals.ogg",
+            "fileId": "1eAO9_pSHgLS9mHPeGhCajhhZKmRSUd-s",
+            "size": 3017356,
+            "md5": "a3cd43d6a87f1d075ca65818f5cf7eb3"
+          },
+          {
+            "name": "drums.ogg",
+            "fileId": "1XBt7NZ_nzGr-o-6eo8LfzQOkuLKwNCfj",
+            "size": 3218424,
+            "md5": "a9501f770e4162c264d3762fa2d82254"
+          },
+          {
+            "name": "bass.ogg",
+            "fileId": "1BcuhctLiLlX63k76YFfwGms1XvZU_FLw",
+            "size": 1883310,
+            "md5": "b1d8d527143e9f0803da57b09c50fac6"
+          },
+          {
+            "name": "guitar.ogg",
+            "fileId": "11_FLKIzfB3FsHakXzAvkomYcBaYBsr_7",
+            "size": 3213962,
+            "md5": "56ea98b95e2d241cd7265bef9648dd82"
+          }
+        ]
+      },
+      "ini": {
+        "name": "Overhere (Han Si)",
+        "artist": "Wong John U Bath ft.Youngtoy",
+        "album": "Single",
+        "genre": "Rubsarb",
+        "year": "2022",
+        "song_length": "124983",
+        "charter": "Oceanuz1999",
+        "diff_band": "0",
+        "diff_guitar": "3",
+        "diff_bass": "0",
+        "diff_drums": "1",
+        "diff_keys": "0",
+        "diff_guitarghl": "0",
+        "diff_bassghl": "0",
+        "diff_drums_real": "1",
+        "preview_start_time": "32496",
+        "icon": "0",
+        "playlist_track": "",
+        "track": "",
+        "album_track": "",
+        "delay": "0",
+        "loading_phrase": "",
+        "diff_rhythm": "0",
+        "diff_rhythmghl": "0"
+      },
+      "art": "https://cdn.jsdelivr.net/gh/rhythm-flea/rhythm-flea@main/indexed/CH00005/24-OVERHERE-HAN-SI/album.jpg"
+    }
+  ]
+}
