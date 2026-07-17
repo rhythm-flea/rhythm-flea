@@ -34,7 +34,7 @@
       ],
       "hasVideo": false,
       "downloads": 0,
-      "isReleased": false,
+      "isReleased": true,
       "_hash": "d15485f628ba9930",
       "source": {
         "mode": "gdrive",
@@ -150,7 +150,7 @@
       ],
       "hasVideo": false,
       "downloads": 0,
-      "isReleased": false,
+      "isReleased": true,
       "_hash": "a9a1ea7e8ef7e0bc",
       "source": {
         "mode": "gdrive",
@@ -267,7 +267,7 @@
       ],
       "hasVideo": false,
       "downloads": 0,
-      "isReleased": false,
+      "isReleased": true,
       "_hash": "5b540e6ecbf12eee",
       "source": {
         "mode": "gdrive",
@@ -389,7 +389,7 @@
       ],
       "hasVideo": false,
       "downloads": 0,
-      "isReleased": false,
+      "isReleased": true,
       "_hash": "8a784c9dd7a20614",
       "source": {
         "mode": "gdrive",
@@ -505,7 +505,7 @@
       ],
       "hasVideo": false,
       "downloads": 0,
-      "isReleased": false,
+      "isReleased": true,
       "_hash": "157564c6804cc6ab",
       "source": {
         "mode": "gdrive",
