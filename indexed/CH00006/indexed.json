@@ -1,0 +1,606 @@
+{
+  "min_version_support": "0.1",
+  "charts": [
+    {
+      "id": "CH00006-28-TIME-PROVE-THE-PERSON-GARN-WAY-LA-PHI",
+      "title": "Time Prove The Person (Garn Way La Phi Suit Kon)",
+      "artist": "Cocktail ft.Mike Piromphon",
+      "charter": "Oceanuz1999",
+      "album": "Cocktail",
+      "genre": "Country R&B Ballad",
+      "insts": [
+        "guitar",
+        "bass",
+        "drums",
+        "prodrums"
+      ],
+      "instTiers": {
+        "guitar": 3,
+        "bass": 2,
+        "drums": 2,
+        "prodrums": 2
+      },
+      "year": 2019,
+      "lengthSec": 338,
+      "fileSize": 27956279,
+      "modifiedTime": "2024-04-19T16:48:21.000Z",
+      "addedTime": "2025-06-08T10:43:56.676Z",
+      "chartFormat": "chart",
+      "stems": [
+        "bass",
+        "drums",
+        "guitar",
+        "keys",
+        "vocals"
+      ],
+      "hasVideo": false,
+      "downloads": 0,
+      "isReleased": false,
+      "_hash": "0cdd36611a7332c3",
+      "source": {
+        "mode": "gdrive",
+        "files": [
+          {
+            "name": "song.ini",
+            "fileId": "1IkTZFbHSJobyOvc3Gu05znoB_jVBG_Bh",
+            "size": 495,
+            "md5": "0bd98ead17d6ac60bc5a59404a8ec5ef"
+          },
+          {
+            "name": "notes.chart",
+            "fileId": "1xogeZgBDH02lKjEaEoGoSE8EFcmkfI2H",
+            "size": 125610,
+            "md5": "5aea0a538f8d75bf47fa4055997f9d0a"
+          },
+          {
+            "name": "album.jpg",
+            "fileId": "1tYtcgVCXgkIXHToT9ln7f7X5IK7D9StW",
+            "size": 98752,
+            "md5": "5fd738746395fde5bcb450524e103839"
+          },
+          {
+            "name": "background.jpg",
+            "fileId": "1rKVpdbe6qcpwJkz5w2bE7Mt64iVsr2r7",
+            "size": 133724,
+            "md5": "962def175c5714a78054045ff77aa789"
+          },
+          {
+            "name": "keys.ogg",
+            "fileId": "1UcAPlKKleaL333EHD2tzSZ6en-4hjTV1",
+            "size": 6175589,
+            "md5": "c3e22aaa2fffec0ee7ae84b2ce886e11"
+          },
+          {
+            "name": "vocals.ogg",
+            "fileId": "1n5wvjasCz8ss09W2fJ_u6pgBETiJ5eUW",
+            "size": 5503015,
+            "md5": "c456ce363ff9e5689fe4d404693c6cd6"
+          },
+          {
+            "name": "drums.ogg",
+            "fileId": "11-j8676BurXmIhRC-OBIUJmnSOviCogK",
+            "size": 5174532,
+            "md5": "7669c6fa8e6a48796ed1cffad8fbeb3f"
+          },
+          {
+            "name": "bass.ogg",
+            "fileId": "1SInWPj9m_HsJ1IUcDLIuNK-aT_Bv2Cra",
+            "size": 3883033,
+            "md5": "8bdd28c5c511452d4b5936dc97521c63"
+          },
+          {
+            "name": "guitar.ogg",
+            "fileId": "1jcc9K5E9zAbyM2iHMLLtJnU1a11xvFgU",
+            "size": 6861529,
+            "md5": "333cd7b2ca03c33d1502a17b013b9481"
+          }
+        ]
+      },
+      "ini": {
+        "name": "Time Prove The Person (Garn Way La Phi Suit Kon)",
+        "artist": "Cocktail ft.Mike Piromphon",
+        "album": "Cocktail",
+        "genre": "Country R&B Ballad",
+        "year": "2019",
+        "song_length": "338064",
+        "charter": "Oceanuz1999",
+        "diff_band": "0",
+        "diff_guitar": "4",
+        "diff_bass": "2",
+        "diff_drums": "3",
+        "diff_drums_real": "3",
+        "diff_keys": "3",
+        "diff_guitarghl": "0",
+        "diff_bassghl": "0",
+        "preview_start_time": "145,368",
+        "icon": "0",
+        "playlist_track": "",
+        "track": "",
+        "album_track": "",
+        "delay": "0",
+        "loading_phrase": "",
+        "diff_rhythm": "0",
+        "diff_rhythmghl": "0"
+      },
+      "art": "https://cdn.jsdelivr.net/gh/rhythm-flea/rhythm-flea@main/indexed/CH00006/28-TIME-PROVE-THE-PERSON-GARN-WAY-LA-PHI/album.jpg"
+    },
+    {
+      "id": "CH00006-29-SIX-PACK",
+      "title": "Six Pack",
+      "artist": "Doubletap ft.Kom Chuan-Chuen",
+      "charter": "Oceanuz1999",
+      "album": "Single",
+      "genre": "Pop EDM",
+      "insts": [
+        "guitar",
+        "bass",
+        "drums",
+        "prodrums"
+      ],
+      "instTiers": {
+        "guitar": 1,
+        "bass": 2,
+        "drums": 2,
+        "prodrums": 2
+      },
+      "year": 2014,
+      "lengthSec": 227,
+      "fileSize": 27012748,
+      "modifiedTime": "2024-04-19T16:51:29.000Z",
+      "addedTime": "2025-06-08T10:43:58.066Z",
+      "chartFormat": "chart",
+      "stems": [
+        "bass",
+        "drums",
+        "keys",
+        "vocals"
+      ],
+      "hasVideo": false,
+      "downloads": 0,
+      "isReleased": false,
+      "_hash": "498151bc98f423ee",
+      "source": {
+        "mode": "gdrive",
+        "files": [
+          {
+            "name": "song.ini",
+            "fileId": "1pPGaRzmhx4u02U7yKc8LaAsM9Sjg90cO",
+            "size": 444,
+            "md5": "c98941db409e428d64a60827e48684ea"
+          },
+          {
+            "name": "notes.chart",
+            "fileId": "1eEkXeCt9Tw5JSMwFwkgfd5Zs9rMVmWVj",
+            "size": 140487,
+            "md5": "423877624935864da68b8c1f938c247e"
+          },
+          {
+            "name": "background.jpg",
+            "fileId": "1ZA33EC9m46hEHOS8PmGJdLOaEBkfLh6U",
+            "size": 80457,
+            "md5": "157c27112725e91a40cc58715f55e2d0"
+          },
+          {
+            "name": "album.jpg",
+            "fileId": "104SiHc3ivh57NhsRd9tXLm2QxHoUufBB",
+            "size": 36388,
+            "md5": "f95f213f75d657db4e356a1e2d7f3474"
+          },
+          {
+            "name": "vocals.ogg",
+            "fileId": "1UNYpCjgCgiBvKjlu1Fj8ua_5_G3pGQIp",
+            "size": 6927052,
+            "md5": "8d9abeed68c2e72bf1cb327921de3698"
+          },
+          {
+            "name": "keys.ogg",
+            "fileId": "1Q3dmZUg-z-UxB62O1GB6RvL2WoCDXv05",
+            "size": 6897267,
+            "md5": "2ad036940f986998c0dd1ac6f7ee7705"
+          },
+          {
+            "name": "drums.ogg",
+            "fileId": "1EBMFBNHdE11wWJhZ5ZamKDOWFwlnuanM",
+            "size": 7229575,
+            "md5": "33f177d007ab44a2d19302145595b64e"
+          },
+          {
+            "name": "bass.ogg",
+            "fileId": "19FijwYOXP35PUbMgBQAmwC6o6cDL2m51",
+            "size": 5701078,
+            "md5": "513b8feacfa837ca7eafea54b3b19b80"
+          }
+        ]
+      },
+      "ini": {
+        "name": "Six Pack",
+        "artist": "Doubletap ft.Kom Chuan-Chuen",
+        "album": "Single",
+        "genre": "Pop EDM",
+        "year": "2014",
+        "song_length": "227044",
+        "charter": "Oceanuz1999",
+        "diff_band": "0",
+        "diff_guitar": "0",
+        "diff_rhythm": "0",
+        "diff_bass": "3",
+        "diff_drums": "3",
+        "diff_drums_real": "3",
+        "diff_keys": "4",
+        "diff_guitarghl": "0",
+        "diff_bassghl": "0",
+        "preview_start_time": "156,643",
+        "icon": "0",
+        "playlist_track": "",
+        "track": "",
+        "album_track": "",
+        "delay": "0",
+        "loading_phrase": "",
+        "diff_rhythmghl": "0"
+      },
+      "art": "https://cdn.jsdelivr.net/gh/rhythm-flea/rhythm-flea@main/indexed/CH00006/29-SIX-PACK/album.jpg"
+    },
+    {
+      "id": "CH00006-30-HAT-DRY-WIND-LHOM-LAENG-OCEANUZ1999S-",
+      "title": "Hat Dry Wind (Lhom Laeng) Oceanuz1999's Edit",
+      "artist": "YEW & Summertime feat.LANDOKMAI (Re-Edit by Oceanuz1999)",
+      "charter": "Oceanuz1999",
+      "album": "Single",
+      "genre": "Soft Pop",
+      "insts": [
+        "guitar",
+        "bass",
+        "drums",
+        "prodrums"
+      ],
+      "instTiers": {
+        "guitar": 3,
+        "bass": 1,
+        "drums": 1,
+        "prodrums": 1
+      },
+      "year": 2020,
+      "lengthSec": 254,
+      "fileSize": 23645482,
+      "modifiedTime": "2024-04-19T16:54:22.000Z",
+      "addedTime": "2025-06-08T10:44:06.324Z",
+      "chartFormat": "chart",
+      "stems": [
+        "bass",
+        "drums",
+        "guitar",
+        "keys",
+        "vocals"
+      ],
+      "hasVideo": false,
+      "downloads": 0,
+      "isReleased": false,
+      "_hash": "b8b428453fef290a",
+      "source": {
+        "mode": "gdrive",
+        "files": [
+          {
+            "name": "song.ini",
+            "fileId": "1lRnrqzY7iMbgYiHQbbsXuHqru2mb4UOo",
+            "size": 507,
+            "md5": "1e08d5ad70c9ebdf5a355bb2051a9b44"
+          },
+          {
+            "name": "notes.chart",
+            "fileId": "1h8Ksw56gMGRRO35I79n7-x8Opzuqwja-",
+            "size": 120043,
+            "md5": "252a0af89cc73ba9b28e0b3bdd58dd3d"
+          },
+          {
+            "name": "background.jpg",
+            "fileId": "1uCIza26vczVMn9WS7CjpBu1yBz6uMLas",
+            "size": 34282,
+            "md5": "7c57aa222270c107ea1f77cec64bf101"
+          },
+          {
+            "name": "album.jpg",
+            "fileId": "1PfOGSTeG_AZlL6jdespySNMkzETh7ytd",
+            "size": 81813,
+            "md5": "71c33671a5381cd1b0c1b0846da104e0"
+          },
+          {
+            "name": "keys.ogg",
+            "fileId": "1Z7WcAhnqzq2Bncc-wzz1fDJslmI-f3oM",
+            "size": 2763712,
+            "md5": "8836bad60282862e31bc53979be0ae90"
+          },
+          {
+            "name": "vocals.ogg",
+            "fileId": "1ONPiQTlLRO0hUqfE3MSXoL5PM7hEEurV",
+            "size": 5157154,
+            "md5": "17cf63ffb0bef248937c8f05c8482906"
+          },
+          {
+            "name": "drums.ogg",
+            "fileId": "10fsgN2zihCwOaFco2o5GHDhUu7LygNz0",
+            "size": 4760108,
+            "md5": "934cd2ae494d430b14a1b3884597f901"
+          },
+          {
+            "name": "bass.ogg",
+            "fileId": "1-9hPXeqZ_z9NWW5RDxk-m2CNG0-hJghR",
+            "size": 4140047,
+            "md5": "ef8479167f1753f40b062f8ea2756e22"
+          },
+          {
+            "name": "guitar.ogg",
+            "fileId": "17t955QQ03QvJrmBG3vkHuEi0Cl2YlRKL",
+            "size": 6587816,
+            "md5": "eeca2700b41efa821fbbb09372e0cd5c"
+          }
+        ]
+      },
+      "ini": {
+        "name": "Hat Dry Wind (Lhom Laeng) Oceanuz1999's Edit",
+        "artist": "YEW & Summertime feat.LANDOKMAI (Re-Edit by Oceanuz1999)",
+        "album": "Single",
+        "genre": "Soft Pop",
+        "year": "2020",
+        "song_length": "253872",
+        "charter": "Oceanuz1999",
+        "diff_band": "4",
+        "diff_guitar": "4",
+        "diff_rhythm": "0",
+        "diff_bass": "1",
+        "diff_drums": "1",
+        "diff_drums_real": "1",
+        "diff_keys": "5",
+        "diff_guitarghl": "0",
+        "diff_bassghl": "0",
+        "preview_start_time": "90317",
+        "icon": "0",
+        "playlist_track": "",
+        "track": "",
+        "album_track": "",
+        "delay": "0",
+        "loading_phrase": "",
+        "diff_rhythmghl": "0"
+      },
+      "art": "https://cdn.jsdelivr.net/gh/rhythm-flea/rhythm-flea@main/indexed/CH00006/30-HAT-DRY-WIND-LHOM-LAENG-OCEANUZ1999S-/album.jpg"
+    },
+    {
+      "id": "CH00006-26-SPOUSE-KU-CHE-WIT",
+      "title": "Spouse (Ku Che Wit)",
+      "artist": "Cocktail",
+      "charter": "Oceanuz1999",
+      "album": "The Lords of Misery",
+      "genre": "Pop Rock Ballad",
+      "insts": [
+        "guitar",
+        "bass",
+        "drums",
+        "prodrums"
+      ],
+      "instTiers": {
+        "guitar": 3,
+        "bass": 2,
+        "drums": 2,
+        "prodrums": 2
+      },
+      "year": 2015,
+      "lengthSec": 332,
+      "fileSize": 29835108,
+      "modifiedTime": "2024-04-19T16:43:12.000Z",
+      "addedTime": "2025-06-08T10:43:50.649Z",
+      "chartFormat": "chart",
+      "stems": [
+        "bass",
+        "drums",
+        "guitar",
+        "keys",
+        "vocals"
+      ],
+      "hasVideo": false,
+      "downloads": 0,
+      "isReleased": false,
+      "_hash": "e585cbbc800fb0e7",
+      "source": {
+        "mode": "gdrive",
+        "files": [
+          {
+            "name": "song.ini",
+            "fileId": "1ERigWuhrLOXd7MvZh6mzN5tAn6-Mm2Z5",
+            "size": 455,
+            "md5": "6e2619987902cd839783c5a89cbf006f"
+          },
+          {
+            "name": "notes.chart",
+            "fileId": "1tbezO4Yay5mLhwpC2-NTfXW2NG_c252B",
+            "size": 135371,
+            "md5": "d74aa16d3bde817055a224dbc6820d3a"
+          },
+          {
+            "name": "background.jpg",
+            "fileId": "1ZTnyEX4sT5L1BqoWqa1uYapvkI99Kg-5",
+            "size": 72983,
+            "md5": "12dbdd8ceabda79c9e85377c2607d767"
+          },
+          {
+            "name": "album.jpg",
+            "fileId": "1BDRDua1JSRjubJp-GnGN1ePhgup8xgOI",
+            "size": 89361,
+            "md5": "17c3528a062ea4f850cf34059697deed"
+          },
+          {
+            "name": "keys.ogg",
+            "fileId": "1LtQ6JY7Fwx2P_wszKYD5J6uEaePWB9AB",
+            "size": 6518111,
+            "md5": "c3887441caed01fd5a19eb6cdcbce372"
+          },
+          {
+            "name": "vocals.ogg",
+            "fileId": "1c3Ehyu9kHYsqI2_LDNQSAYAwHvJaLbsc",
+            "size": 6093981,
+            "md5": "b22c824c7b6482c83c18bf7070d59f9b"
+          },
+          {
+            "name": "drums.ogg",
+            "fileId": "1g_Qq9d1PwzRTvNLrznQ_VJFFfFw0ORlK",
+            "size": 5846755,
+            "md5": "948009bd25314d3a68a869ee7cecfc92"
+          },
+          {
+            "name": "bass.ogg",
+            "fileId": "1NOXbTGH1vwYteYBPbJ2eETFl-zR8A9Zw",
+            "size": 4206659,
+            "md5": "4d81172d0532abac75812a49c5d5b69f"
+          },
+          {
+            "name": "guitar.ogg",
+            "fileId": "1gufWYjOH21ARndY4nmOCQl_9cJF38Ylw",
+            "size": 6871432,
+            "md5": "f8951f238744ef931f075303f00a11bb"
+          }
+        ]
+      },
+      "ini": {
+        "name": "Spouse (Ku Che Wit)",
+        "artist": "Cocktail",
+        "album": "The Lords of Misery",
+        "genre": "Pop Rock Ballad",
+        "year": "2015",
+        "song_length": "332082",
+        "charter": "Oceanuz1999",
+        "diff_band": "0",
+        "diff_guitar": "4",
+        "diff_bass": "2",
+        "diff_drums": "3",
+        "diff_drums_real": "3",
+        "diff_keys": "4",
+        "diff_guitarghl": "0",
+        "diff_bassghl": "0",
+        "preview_start_time": "176003",
+        "icon": "0",
+        "playlist_track": "",
+        "track": "",
+        "album_track": "",
+        "delay": "0",
+        "loading_phrase": "",
+        "diff_rhythm": "0",
+        "diff_rhythmghl": "0"
+      },
+      "art": "https://cdn.jsdelivr.net/gh/rhythm-flea/rhythm-flea@main/indexed/CH00006/26-SPOUSE-KU-CHE-WIT/album.jpg"
+    },
+    {
+      "id": "CH00006-27-FANZONE",
+      "title": "FANZONE",
+      "artist": "Redspin",
+      "charter": "Oceanuz1999",
+      "album": "FANZONE",
+      "genre": "T-POP",
+      "insts": [
+        "guitar",
+        "bass",
+        "drums",
+        "prodrums"
+      ],
+      "instTiers": {
+        "guitar": 1,
+        "bass": 2,
+        "drums": 2,
+        "prodrums": 2
+      },
+      "year": 2019,
+      "lengthSec": 240,
+      "fileSize": 23432200,
+      "modifiedTime": "2024-04-19T16:45:21.000Z",
+      "addedTime": "2025-06-08T10:43:49.195Z",
+      "chartFormat": "chart",
+      "stems": [
+        "bass",
+        "drums",
+        "keys",
+        "vocals"
+      ],
+      "hasVideo": false,
+      "downloads": 0,
+      "isReleased": false,
+      "_hash": "163690cfa91bf26b",
+      "source": {
+        "mode": "gdrive",
+        "files": [
+          {
+            "name": "notes.chart",
+            "fileId": "1AMBoXk-Ru8oZ4QDq7n0poFvubqe2fuLB",
+            "size": 152568,
+            "md5": "6c2cd65c1be803714c16ba7c45f8b80f"
+          },
+          {
+            "name": "song.ini",
+            "fileId": "1gyRZHqEbTQDrFl4jvp9r6qhFiV-9UD2b",
+            "size": 420,
+            "md5": "f15e20d4bdd4e346e677461d0a67858a"
+          },
+          {
+            "name": "background.jpg",
+            "fileId": "1M418W3sWhKjd96_0KcB1cn3qMVUU5SyG",
+            "size": 1465596,
+            "md5": "d68a472da964752c28cb69fc663f89a9"
+          },
+          {
+            "name": "album.jpg",
+            "fileId": "1KtbElq3Fs-ph6X7Iy2U2XZZ7r-uVDgkJ",
+            "size": 116062,
+            "md5": "78ca9bb5e2e379c6448145ad345da5f7"
+          },
+          {
+            "name": "keys.ogg",
+            "fileId": "1hhhpIbm9XVg7LksDH4lp4z4lRDHbGSZy",
+            "size": 5891012,
+            "md5": "fd9748b0f23b9b66900711110fffbc41"
+          },
+          {
+            "name": "vocals.ogg",
+            "fileId": "1_Fd4Y2wFQMP0AQDOwveZvXXPV03zwiMg",
+            "size": 5659332,
+            "md5": "659bc8f5e95a730b63ca37064fedfc6b"
+          },
+          {
+            "name": "drums.ogg",
+            "fileId": "1YutObMvIASn97VMB27tYTYYYAfKKNIgh",
+            "size": 6670776,
+            "md5": "6ffc3b1778170a147744f65795ce2516"
+          },
+          {
+            "name": "bass.ogg",
+            "fileId": "1SiBCOd09hPsFoGI2cJRBw4rC1d-oC_p1",
+            "size": 3476434,
+            "md5": "b375d2dab39b9f71ccd33d9c46012d3a"
+          }
+        ]
+      },
+      "ini": {
+        "name": "FANZONE",
+        "artist": "Redspin",
+        "album": "FANZONE",
+        "genre": "T-POP",
+        "year": "2019",
+        "song_length": "239974",
+        "charter": "Oceanuz1999",
+        "diff_band": "0",
+        "diff_guitar": "0",
+        "diff_bass": "2",
+        "diff_drums": "3",
+        "diff_drums_real": "3",
+        "diff_keys": "6",
+        "diff_guitarghl": "0",
+        "diff_bassghl": "0",
+        "preview_start_time": "140000",
+        "icon": "0",
+        "playlist_track": "",
+        "track": "",
+        "album_track": "",
+        "delay": "0",
+        "loading_phrase": "",
+        "diff_rhythm": "0",
+        "diff_rhythmghl": "0"
+      },
+      "art": "https://cdn.jsdelivr.net/gh/rhythm-flea/rhythm-flea@main/indexed/CH00006/27-FANZONE/album.jpg"
+    }
+  ]
+}
