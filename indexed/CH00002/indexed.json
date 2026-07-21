@@ -1,0 +1,603 @@
+{
+  "min_version_support": "0.1",
+  "charts": [
+    {
+      "id": "CH00002-8-BLACK-LOBE-SORE-LOVE-GLEEP-DUM-CHUM-RA",
+      "title": "Black lobe sore love (Gleep Dum Chum Rak)",
+      "artist": "Wong John U Bath",
+      "charter": "Oceanuz1999",
+      "album": "Single",
+      "genre": "Rock",
+      "insts": [
+        "guitar",
+        "bass",
+        "drums",
+        "prodrums"
+      ],
+      "instTiers": {
+        "guitar": 2,
+        "bass": 2,
+        "drums": 2,
+        "prodrums": 2
+      },
+      "year": 2021,
+      "lengthSec": 155,
+      "fileSize": 13596949,
+      "modifiedTime": "2024-04-13T16:15:58.000Z",
+      "addedTime": "2025-06-08T10:46:10.521Z",
+      "chartFormat": "chart",
+      "stems": [
+        "bass",
+        "drums",
+        "guitar",
+        "vocals"
+      ],
+      "hasVideo": false,
+      "downloads": 0,
+      "isReleased": true,
+      "_hash": "d16e66627529f579",
+      "source": {
+        "mode": "gdrive",
+        "files": [
+          {
+            "name": "song.ini",
+            "fileId": "1-ad_vq48eApkR5JPfUy1kn2RhNT2yj78",
+            "size": 460,
+            "md5": "a0d413c285d98737d18a6915f7e31e3c"
+          },
+          {
+            "name": "notes.chart",
+            "fileId": "10hbJCkisalmp-mwdhqS7Y14N-Dh1n0fC",
+            "size": 74829,
+            "md5": "305eaf489085d3ec4484b95dc7f54016"
+          },
+          {
+            "name": "vocals.ogg",
+            "fileId": "1A09sevyBAycUWCuVXtEXb5Uj_qfbbBzy",
+            "size": 3081334,
+            "md5": "084437b66ca7892dc305fdc11fc68341"
+          },
+          {
+            "name": "drums.ogg",
+            "fileId": "1LN5ycvWAoIQXAe_VstuKC-DuJ0XtVQDg",
+            "size": 3959565,
+            "md5": "90c1f6b4cbaa9d6c05dda08685b68f1d"
+          },
+          {
+            "name": "bass.ogg",
+            "fileId": "1U95QzjHuBYYecf7aECn9G7H85KVTcnN2",
+            "size": 2766558,
+            "md5": "d2860546effb43d3cfefbe19d4f09286"
+          },
+          {
+            "name": "guitar.ogg",
+            "fileId": "1_WAoWYefS-Fi3Fv1kd2YBI9bSZQoVTE-",
+            "size": 3537619,
+            "md5": "6941cbb21533f3df313fc851c6cb6e1d"
+          },
+          {
+            "name": "album.jpg",
+            "fileId": "1ssU7eSa_22ouCBkO7TZcT9KTL0QLogbC",
+            "size": 63349,
+            "md5": "4b8e5e84df6723311f29705cbc5cf881"
+          },
+          {
+            "name": "background.jpg",
+            "fileId": "1BqcIO-QR2VQ01s29MZZmkzWseBbQctjz",
+            "size": 113235,
+            "md5": "6a7885f09d4eb37a2c53f73e470d7055"
+          }
+        ]
+      },
+      "ini": {
+        "name": "Black lobe sore love (Gleep Dum Chum Rak)",
+        "artist": "Wong John U Bath",
+        "album": "Single",
+        "genre": "Rock",
+        "year": "2021",
+        "song_length": "155233",
+        "charter": "Oceanuz1999",
+        "diff_band": "3",
+        "diff_guitar": "2",
+        "diff_bass": "3",
+        "diff_drums": "3",
+        "diff_keys": "3",
+        "diff_guitarghl": "3",
+        "diff_bassghl": "3",
+        "diff_drums_real": "3",
+        "preview_start_time": "76052",
+        "icon": "0",
+        "playlist_track": "",
+        "track": "",
+        "album_track": "",
+        "delay": "0",
+        "loading_phrase": "",
+        "diff_rhythm": "3",
+        "diff_rhythmghl": "3"
+      },
+      "art": "https://cdn.jsdelivr.net/gh/rhythm-flea/rhythm-flea@main/indexed/CH00002/8-BLACK-LOBE-SORE-LOVE-GLEEP-DUM-CHUM-RA/album.jpg"
+    },
+    {
+      "id": "CH00002-9-WEAKNESS-ALLERGIC-PAE-KWAM-AON-AIR",
+      "title": "Weakness Allergic (Pae Kwam Aon Air)",
+      "artist": "Silly Fools",
+      "charter": "Oceanuz1999",
+      "album": "Pae Kwam Aon Air",
+      "genre": "Rock",
+      "insts": [
+        "guitar",
+        "bass",
+        "drums",
+        "prodrums"
+      ],
+      "instTiers": {
+        "guitar": 4,
+        "bass": 2,
+        "drums": 3,
+        "prodrums": 3
+      },
+      "year": 2021,
+      "lengthSec": 335,
+      "fileSize": 33098442,
+      "modifiedTime": "2024-04-13T16:19:19.000Z",
+      "addedTime": "2025-06-08T10:46:10.521Z",
+      "chartFormat": "chart",
+      "stems": [
+        "bass",
+        "drums",
+        "guitar",
+        "vocals"
+      ],
+      "hasVideo": false,
+      "downloads": 0,
+      "isReleased": true,
+      "_hash": "d495f42e6b0268c4",
+      "source": {
+        "mode": "gdrive",
+        "files": [
+          {
+            "name": "notes.chart",
+            "fileId": "1FXcEEzPDqKtOQCwQGyhXyajpfeDydsIr",
+            "size": 227661,
+            "md5": "d287a1a72c0e04b39e19f4ad4f8cfac5"
+          },
+          {
+            "name": "song.ini",
+            "fileId": "1GwDRpBLJYbxj6xSE6mk3-INmm6jCssdf",
+            "size": 461,
+            "md5": "05411131a86a0a565b72918c0031d4b8"
+          },
+          {
+            "name": "vocals.ogg",
+            "fileId": "1_GTA2FqnvywYrRDAZTO2UJG2T3nfM-8I",
+            "size": 7885825,
+            "md5": "6c8c010d8f9d153fae70de61f7ceea8b"
+          },
+          {
+            "name": "drums.ogg",
+            "fileId": "14u88x9gCUrKXnRaEWa_AI9tTJbKiITlL",
+            "size": 9219604,
+            "md5": "911fe54fb32af8a0cf8617343a18419a"
+          },
+          {
+            "name": "bass.ogg",
+            "fileId": "183B_tv_93-KKxesNZouq4eFV8LjqLIPb",
+            "size": 6637576,
+            "md5": "e0908af22a509700d87537fae030a27c"
+          },
+          {
+            "name": "guitar.ogg",
+            "fileId": "1E6kgPTlF-hcohURDz6KEv3v8fNb82mpf",
+            "size": 8955476,
+            "md5": "00220ba2948577134137d0cf660a3425"
+          },
+          {
+            "name": "album.jpg",
+            "fileId": "1lcHB5i5QbV34r_uT6cj336FVK18Lz5Sc",
+            "size": 89966,
+            "md5": "9b05da33e7632f842be957c3992d6fa2"
+          },
+          {
+            "name": "background.jpg",
+            "fileId": "1dXcjy5ihPfgDvEPf90RflrxvGkQLYkD_",
+            "size": 81873,
+            "md5": "3a58e2a9d71f3896416ad633c81f3548"
+          }
+        ]
+      },
+      "ini": {
+        "name": "Weakness Allergic (Pae Kwam Aon Air)",
+        "artist": "Silly Fools",
+        "album": "Pae Kwam Aon Air",
+        "genre": "Rock",
+        "year": "2021",
+        "song_length": "335060",
+        "charter": "Oceanuz1999",
+        "diff_band": "5",
+        "diff_guitar": "5",
+        "diff_bass": "3",
+        "diff_drums": "4",
+        "diff_keys": "4",
+        "diff_guitarghl": "4",
+        "diff_bassghl": "4",
+        "diff_drums_real": "4",
+        "preview_start_time": "177568",
+        "icon": "0",
+        "playlist_track": "",
+        "track": "",
+        "album_track": "",
+        "delay": "0",
+        "loading_phrase": "",
+        "diff_rhythm": "4",
+        "diff_rhythmghl": "4"
+      },
+      "art": "https://cdn.jsdelivr.net/gh/rhythm-flea/rhythm-flea@main/indexed/CH00002/9-WEAKNESS-ALLERGIC-PAE-KWAM-AON-AIR/album.jpg"
+    },
+    {
+      "id": "CH00002-7-HER-TER",
+      "title": "Her (Ter)",
+      "artist": "Cocktail",
+      "charter": "Oceanuz1999",
+      "album": "Single",
+      "genre": "Soft-Pop Rock",
+      "insts": [
+        "guitar",
+        "bass",
+        "drums",
+        "prodrums"
+      ],
+      "instTiers": {
+        "guitar": 3,
+        "bass": 3,
+        "drums": 2,
+        "prodrums": 2
+      },
+      "year": 2014,
+      "lengthSec": 266,
+      "fileSize": 24924277,
+      "modifiedTime": "2024-04-13T16:10:53.000Z",
+      "addedTime": "2025-06-08T10:46:03.851Z",
+      "chartFormat": "chart",
+      "stems": [
+        "bass",
+        "drums",
+        "guitar",
+        "vocals"
+      ],
+      "hasVideo": false,
+      "downloads": 0,
+      "isReleased": true,
+      "_hash": "826131e0c4471fbd",
+      "source": {
+        "mode": "gdrive",
+        "files": [
+          {
+            "name": "notes.chart",
+            "fileId": "1iAHUcynhYAGbhceT3_pwLNHdAK1H6s9t",
+            "size": 92395,
+            "md5": "1ac6e84a7f1241beee24029b325465cd"
+          },
+          {
+            "name": "song.ini",
+            "fileId": "1LmWxp6Qx_Vt62cdFEMmhmxPTbunJxUYH",
+            "size": 430,
+            "md5": "92dab632f61d6e43a607d1c77c13a837"
+          },
+          {
+            "name": "vocals.ogg",
+            "fileId": "1Ejq8bJDPVejt1eZr_HjGxlDq0WrNxOWX",
+            "size": 6347652,
+            "md5": "46ac238a5f4c8eb2b0d29ce6395dd83a"
+          },
+          {
+            "name": "drums.ogg",
+            "fileId": "1K74ancSuESbNjCXvn1NEzAF6EY3-aSBe",
+            "size": 6064547,
+            "md5": "f891f298954b63283f71a330b3ac9abc"
+          },
+          {
+            "name": "bass.ogg",
+            "fileId": "1zBjdmkQ-4tpWRphdA0ulObIwG2Q--0ae",
+            "size": 5456434,
+            "md5": "6ce63225f760771ac0791e3eb7acb974"
+          },
+          {
+            "name": "guitar.ogg",
+            "fileId": "1FkcCgB6HqY_QcLkm8zRwuwmYQ6NtYn2a",
+            "size": 6831129,
+            "md5": "00b9c3e489b334a7cb005062c0fc7cb3"
+          },
+          {
+            "name": "album.jpg",
+            "fileId": "1JibU9gwkJRzaefu6ZKwY4YJq_YST0fHd",
+            "size": 48908,
+            "md5": "07c84b29aa3d18cab6724cbb1246330f"
+          },
+          {
+            "name": "background.jpg",
+            "fileId": "1zVMNuZEQqTY92hSR0eTQXhpX7IwqjCI1",
+            "size": 82782,
+            "md5": "b8d6732e5d449b01c4be4c28f6a24c46"
+          }
+        ]
+      },
+      "ini": {
+        "name": "Her (Ter)",
+        "artist": "Cocktail",
+        "album": "Single",
+        "genre": "Soft-Pop Rock",
+        "year": "2014",
+        "song_length": "266489",
+        "charter": "Oceanuz1999",
+        "diff_band": "4",
+        "diff_guitar": "4",
+        "diff_bass": "4",
+        "diff_drums": "2",
+        "diff_keys": "4",
+        "diff_guitarghl": "4",
+        "diff_bassghl": "4",
+        "diff_drums_real": "2",
+        "preview_start_time": "133230",
+        "icon": "0",
+        "playlist_track": "",
+        "track": "",
+        "album_track": "",
+        "delay": "0",
+        "loading_phrase": "",
+        "diff_rhythm": "4",
+        "diff_rhythmghl": "4"
+      },
+      "art": "https://cdn.jsdelivr.net/gh/rhythm-flea/rhythm-flea@main/indexed/CH00002/7-HER-TER/album.jpg"
+    },
+    {
+      "id": "CH00002-6-OLD-GANGSTER-NAK-LENG-GAO",
+      "title": "Old Gangster (Nak Leng Gao)",
+      "artist": "TaitosmitH featuring D GERRARD",
+      "charter": "Oceanuz1999",
+      "album": "4KINGS Orignal Soundtrack",
+      "genre": "Rock",
+      "insts": [
+        "guitar",
+        "bass",
+        "drums",
+        "prodrums"
+      ],
+      "instTiers": {
+        "guitar": 4,
+        "bass": 3,
+        "drums": 2,
+        "prodrums": 2
+      },
+      "year": 2021,
+      "lengthSec": 312,
+      "fileSize": 34296835,
+      "modifiedTime": "2024-04-13T16:07:20.000Z",
+      "addedTime": "2025-06-08T10:45:55.716Z",
+      "chartFormat": "chart",
+      "stems": [
+        "bass",
+        "drums",
+        "guitar",
+        "keys",
+        "vocals"
+      ],
+      "hasVideo": false,
+      "downloads": 0,
+      "isReleased": true,
+      "_hash": "68487d0fd02e8aa5",
+      "source": {
+        "mode": "gdrive",
+        "files": [
+          {
+            "name": "song.ini",
+            "fileId": "1OQ83SYHtW3-Dx5nOMKftBhHAEEwfYAn7",
+            "size": 480,
+            "md5": "fe07343b11faf2179a0d8dd278d14c8e"
+          },
+          {
+            "name": "notes.chart",
+            "fileId": "1NStrRWZMaALcA5fd_LLifjIw1FvcUp4n",
+            "size": 170066,
+            "md5": "08141e09214e81cc90a5a4e5f2c3ca80"
+          },
+          {
+            "name": "keys.ogg",
+            "fileId": "16EM-ZadudvqCW0QjfaFHUtZTL-czxH64",
+            "size": 6728360,
+            "md5": "77c91202fa1cae17acc024f44e5e7e8a"
+          },
+          {
+            "name": "vocals.ogg",
+            "fileId": "1YQSuOI0L2L4ppq3KI5vOOqSJBe5hHhji",
+            "size": 6189716,
+            "md5": "7c4d7dc769cd8b59173af26f58af8097"
+          },
+          {
+            "name": "drums.ogg",
+            "fileId": "11YI6wItJyQIHefx7mAH6atIhnyF8C5NW",
+            "size": 7746107,
+            "md5": "8ecfea1a608ea148f1ed8c84852dda53"
+          },
+          {
+            "name": "bass.ogg",
+            "fileId": "108OstGr8UJ9c9goPSUErC68Q4tqCti9l",
+            "size": 5725270,
+            "md5": "97a30229370400e1e8fdb4c94052101d"
+          },
+          {
+            "name": "guitar.ogg",
+            "fileId": "1RuMELYQ6HFONv5NZE2fxlWVZV1gAamf8",
+            "size": 7581894,
+            "md5": "47942ed2dafa5bbced17158cacd08fbb"
+          },
+          {
+            "name": "background.jpg",
+            "fileId": "1eG_bq_5HyNO7ecfP0d_LPpf2tlKK0CQq",
+            "size": 124248,
+            "md5": "42bdfa90cda619c3a0d09537dd80a360"
+          },
+          {
+            "name": "album.jpg",
+            "fileId": "1nXKhkfSx48asDsF32vHDVeHD5OMEQm-w",
+            "size": 30694,
+            "md5": "18a7c5005cbec8faef906a2b3a1c2d47"
+          }
+        ]
+      },
+      "ini": {
+        "name": "Old Gangster (Nak Leng Gao)",
+        "artist": "TaitosmitH featuring D GERRARD",
+        "album": "4KINGS Orignal Soundtrack",
+        "genre": "Rock",
+        "year": "2021",
+        "song_length": "312099",
+        "charter": "Oceanuz1999",
+        "diff_band": "5",
+        "diff_guitar": "5",
+        "diff_bass": "4",
+        "diff_drums": "3",
+        "diff_keys": "5",
+        "diff_guitarghl": "5",
+        "diff_bassghl": "5",
+        "diff_drums_real": "3",
+        "preview_start_time": "136200",
+        "icon": "0",
+        "playlist_track": "",
+        "track": "",
+        "album_track": "",
+        "delay": "0",
+        "loading_phrase": "",
+        "diff_rhythm": "5",
+        "diff_rhythmghl": "5"
+      },
+      "art": "https://cdn.jsdelivr.net/gh/rhythm-flea/rhythm-flea@main/indexed/CH00002/6-OLD-GANGSTER-NAK-LENG-GAO/album.jpg"
+    },
+    {
+      "id": "CH00002-10-D-AAA",
+      "title": "D.AAA",
+      "artist": "BNK48",
+      "charter": "Oceanuz1999",
+      "album": "Warota People",
+      "genre": "Pop-Rock",
+      "insts": [
+        "guitar",
+        "bass",
+        "drums",
+        "prodrums"
+      ],
+      "instTiers": {
+        "guitar": 3,
+        "bass": 2,
+        "drums": 2,
+        "prodrums": 2
+      },
+      "year": 2021,
+      "lengthSec": 207,
+      "fileSize": 27254739,
+      "modifiedTime": "2024-04-13T16:27:29.000Z",
+      "addedTime": "2025-06-08T10:42:52.976Z",
+      "chartFormat": "chart",
+      "stems": [
+        "bass",
+        "drums",
+        "guitar",
+        "keys",
+        "vocals"
+      ],
+      "hasVideo": false,
+      "downloads": 0,
+      "isReleased": true,
+      "_hash": "a4e49daf844ac94c",
+      "source": {
+        "mode": "gdrive",
+        "files": [
+          {
+            "name": "song.ini",
+            "fileId": "1syBvzlmuNau0Zu2kwElMVtkbkicp81Wy",
+            "size": 511,
+            "md5": "a7009578e0ecb74c78bbe98afc973c74"
+          },
+          {
+            "name": "notes.chart",
+            "fileId": "1XtO9VeHx35t3OWiEcpj4gdttdoXoUMob",
+            "size": 153808,
+            "md5": "9c9993a19cad2a6de41e68b623b9ec58"
+          },
+          {
+            "name": "keys.ogg",
+            "fileId": "1P8clnvSi8x40taqSIrXz8DUyB3v5FDBQ",
+            "size": 5440807,
+            "md5": "8f0fb5c93490a138f1562f65957bb335"
+          },
+          {
+            "name": "vocals.ogg",
+            "fileId": "1sdxrWL_eXbZwk-Edia3wbMZRBZH0Waga",
+            "size": 5417265,
+            "md5": "fff2e4bf9779d05c2af7048a8ef75b39"
+          },
+          {
+            "name": "drums.ogg",
+            "fileId": "1z6RxKkEVBZC5iMmjH6gCRFxhtd2CYUAu",
+            "size": 5824275,
+            "md5": "f18cdcbf42e0a5726dbf60becfffc202"
+          },
+          {
+            "name": "bass.ogg",
+            "fileId": "1jrPm0hS0WcwjoVZEjn50Dsf_u0AzLr-1",
+            "size": 4645446,
+            "md5": "f8c01245e332f74d20e6e88e63441398"
+          },
+          {
+            "name": "guitar.ogg",
+            "fileId": "1z1fUXkdYE411J3MkK8vDstWZiNpUykEU",
+            "size": 5558699,
+            "md5": "a5a6b93269af28ffd5c929ffc1d29b13"
+          },
+          {
+            "name": "background.jpg",
+            "fileId": "1MKCCLjLHP2ONkp-ZyZwYEJc0PsQnMgPK",
+            "size": 115716,
+            "md5": "a90be6b5107c309662d744771abb2daa"
+          },
+          {
+            "name": "album.jpg",
+            "fileId": "1N4Lj1uVAKFa5BT9oB1uRvFCDuf69UCX0",
+            "size": 98212,
+            "md5": "eaf500deb4be17ad54122b6db6f1efba"
+          }
+        ]
+      },
+      "ini": {
+        "name": "D.AAA",
+        "artist": "BNK48",
+        "album": "Warota People",
+        "genre": "Pop Rock",
+        "year": "2021",
+        "song_length": "207191",
+        "charter": "Oceanuz1999",
+        "diff_band": "3",
+        "diff_guitar": "4",
+        "diff_bass": "3",
+        "diff_drums": "2",
+        "diff_keys": "4",
+        "diff_guitarghl": "3",
+        "diff_bassghl": "3",
+        "preview_start_time": "176090",
+        "icon": "0",
+        "playlist_track": "16000",
+        "track": "",
+        "album_track": "16000",
+        "delay": "1057",
+        "loading_phrase": "",
+        "diff_rhythm": "3",
+        "diff_drums_real": "2",
+        "five_lane_drums": "0",
+        "modchart": "0",
+        "end_events": "1",
+        "video_start_time": "0",
+        "diff_rhythmghl": "3"
+      },
+      "art": "https://cdn.jsdelivr.net/gh/rhythm-flea/rhythm-flea@main/indexed/CH00002/10-D-AAA/album.jpg"
+    }
+  ]
+}
