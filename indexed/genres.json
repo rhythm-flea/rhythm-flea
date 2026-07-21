@@ -2,24 +2,340 @@
   "min_version_support": "0.1",
   "genres": [
     {
-      "source": "Rock",
-      "title": ""
+      "source": "Alternative",
+      "title": "อัลเทอร์เนทีฟ"
     },
     {
-      "source": "Pop",
-      "title": ""
+      "source": "Ambient",
+      "title": "แอมเบียนต์"
+    },
+    {
+      "source": "Drone",
+      "title": "โดรน"
+    },
+    {
+      "source": "Ballad",
+      "title": "บัลลาด"
+    },
+    {
+      "source": "Blues",
+      "title": "บลูส์"
+    },
+    {
+      "source": "Children's Music",
+      "title": "เพลงสำหรับเด็ก"
+    },
+    {
+      "source": "Chiptune",
+      "title": "ชิปทูน"
+    },
+    {
+      "source": "Classic Rock",
+      "title": "คลาสสิกร็อก"
+    },
+    {
+      "source": "Classical",
+      "title": "คลาสสิก"
+    },
+    {
+      "source": "Country",
+      "title": "คันทรี"
+    },
+    {
+      "source": "Dance",
+      "title": "แดนซ์"
+    },
+    {
+      "source": "Death",
+      "title": "เดท"
+    },
+    {
+      "source": "Black Metal",
+      "title": "แบล็กเมทัล"
+    },
+    {
+      "source": "Disco",
+      "title": "ดิสโก้"
+    },
+    {
+      "source": "Djent",
+      "title": "เจนท์"
+    },
+    {
+      "source": "DnB",
+      "title": "ดีแอนด์บี"
+    },
+    {
+      "source": "Breakbeat",
+      "title": "เบรกบีท"
+    },
+    {
+      "source": "Jungle",
+      "title": "จังเกิล"
+    },
+    {
+      "source": "Doom Metal",
+      "title": "ดูมเมทัล"
+    },
+    {
+      "source": "Dubstep",
+      "title": "ดับสเตป"
+    },
+    {
+      "source": "Electronic",
+      "title": "อิเล็กทรอนิกส์"
+    },
+    {
+      "source": "Electronic Rock",
+      "title": "อิเล็กทรอนิกส์ร็อก"
+    },
+    {
+      "source": "Emo",
+      "title": "อีโม"
+    },
+    {
+      "source": "Folk",
+      "title": "โฟล์ค"
+    },
+    {
+      "source": "Fusion",
+      "title": "ฟิวชัน"
+    },
+    {
+      "source": "Glam",
+      "title": "แกลม"
+    },
+    {
+      "source": "Glitch",
+      "title": "กลิตช์"
+    },
+    {
+      "source": "Grindcore",
+      "title": "กรายด์คอร์"
+    },
+    {
+      "source": "Groove Metal",
+      "title": "กรูฟเมทัล"
+    },
+    {
+      "source": "Grunge",
+      "title": "กรันจ์"
+    },
+    {
+      "source": "Hard Rock",
+      "title": "ฮาร์ดร็อก"
+    },
+    {
+      "source": "EDM",
+      "title": "อีดีเอ็ม"
+    },
+    {
+      "source": "Hardcore EDM",
+      "title": "ฮาร์ดคอร์ อีดีเอ็ม"
+    },
+    {
+      "source": "Heavy Metal",
+      "title": "เฮฟวีเมทัล"
+    },
+    {
+      "source": "Hip-Hop",
+      "title": "ฮิปฮอป"
+    },
+    {
+      "source": "Rap",
+      "title": "แร็ป"
+    },
+    {
+      "source": "Holiday",
+      "title": "เพลงเทศกาล"
+    },
+    {
+      "source": "House",
+      "title": "เฮาส์"
+    },
+    {
+      "source": "IDM",
+      "title": "ไอดีเอ็ม"
+    },
+    {
+      "source": "Indie Rock",
+      "title": "อินดี้ร็อก"
+    },
+    {
+      "source": "Industrial",
+      "title": "อินดัสเทรียล"
+    },
+    {
+      "source": "Inspirational",
+      "title": "เพลงสร้างแรงบันดาลใจ"
+    },
+    {
+      "source": "J-Pop",
+      "title": "เจป็อป"
+    },
+    {
+      "source": "J-Rock",
+      "title": "เจร็อก"
+    },
+    {
+      "source": "Jazz",
+      "title": "แจ๊ส"
+    },
+    {
+      "source": "K-Pop",
+      "title": "เคป็อป"
+    },
+    {
+      "source": "Latin",
+      "title": "ลาติน"
+    },
+    {
+      "source": "Mashup",
+      "title": "แมชอัป"
+    },
+    {
+      "source": "Math Rock",
+      "title": "แมทร็อก"
+    },
+    {
+      "source": "Melodic",
+      "title": "เมโลดิก"
+    },
+    {
+      "source": "Power Metal",
+      "title": "พาวเวอร์เมทัล"
     },
     {
       "source": "Metalcore",
-      "title": ""
+      "title": "เมทัลคอร์"
+    },
+    {
+      "source": "Noise",
+      "title": "นอยส์"
+    },
+    {
+      "source": "New Wave",
+      "title": "นิวเวฟ"
+    },
+    {
+      "source": "Novelty",
+      "title": "โนเวลตี"
+    },
+    {
+      "source": "Nu-Metal",
+      "title": "นูเมทัล"
+    },
+    {
+      "source": "Orchestral",
+      "title": "ออร์เคสตรา"
+    },
+    {
+      "source": "Pop",
+      "title": "ป็อป"
+    },
+    {
+      "source": "Pop-Punk",
+      "title": "ป็อปพังก์"
     },
     {
       "source": "Pop-Rock",
-      "title": ""
+      "title": "ป็อปร็อก"
+    },
+    {
+      "source": "Post-Hardcore",
+      "title": "โพสต์ฮาร์ดคอร์"
+    },
+    {
+      "source": "Progressive",
+      "title": "โพรเกรสซีฟ"
+    },
+    {
+      "source": "Psychedelic",
+      "title": "ไซเคเดลิกร็อก"
+    },
+    {
+      "source": "Punk",
+      "title": "พังก์"
+    },
+    {
+      "source": "R&B",
+      "title": "อาร์แอนด์บี"
+    },
+    {
+      "source": "Soul",
+      "title": "โซล"
+    },
+    {
+      "source": "Funk",
+      "title": "ฟังก์"
+    },
+    {
+      "source": "Reggae",
+      "title": "เรกเก้"
+    },
+    {
+      "source": "Rock",
+      "title": "ร็อก"
+    },
+    {
+      "source": "Rock & Roll",
+      "title": "ร็อกแอนด์โรล"
+    },
+    {
+      "source": "Ska",
+      "title": "สกา"
+    },
+    {
+      "source": "Soundtrack",
+      "title": "เพลงประกอบ"
+    },
+    {
+      "source": "Southern Rock",
+      "title": "เซาเทิร์นร็อก"
+    },
+    {
+      "source": "Surf Rock",
+      "title": "เซิร์ฟร็อก"
+    },
+    {
+      "source": "Synthpop",
+      "title": "ซินธ์ป็อป"
+    },
+    {
+      "source": "Electropop",
+      "title": "อิเล็กโทรป็อป"
+    },
+    {
+      "source": "Techno",
+      "title": "เทคโน"
+    },
+    {
+      "source": "Thrash",
+      "title": "แธรช"
+    },
+    {
+      "source": "Speed Metal",
+      "title": "สปีดเมทัล"
+    },
+    {
+      "source": "Trance",
+      "title": "เทรนซ์"
+    },
+    {
+      "source": "Trap",
+      "title": "แทร็ป"
+    },
+    {
+      "source": "World",
+      "title": "เวิลด์มิวสิก"
     },
     {
       "source": "Other",
-      "title": ""
+      "title": "อื่น ๆ"
+    },
+    {
+      "source": "Soft-Pop Rock",
+      "title": "ซอฟต์ป็อปร็อก"
     }
   ]
 }
